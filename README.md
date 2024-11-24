@@ -9,6 +9,20 @@ A tool for finding matching samples based on waveform similarity.
 
 ## Installation
 
+**Using Python**
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/patches-sample-finder.git
+
+
+2. Install python dependencies
+   ```bash
+   pip install -r requirements.txt
+
+3. Run the program
+   ```bash
+   python sample_finder.py
+
+**OR use the .exe**
+
