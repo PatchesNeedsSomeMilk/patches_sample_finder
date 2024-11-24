@@ -1,0 +1,10 @@
+# Ignore compiled executable files
+dist/
+build/
+
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore PyInstaller config files
+*.spec
