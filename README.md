@@ -1,21 +1,25 @@
 # Patches' Sample Finder
 
-A tool for finding matching samples based on waveform similarity.
+A quick tool I made using Python that looks for duplicated audio files on your drive using spectral analysis
 
 ## Features
-- Load an audio file and scan a directory for similar waveforms.
-- Adjustable similarity threshold.
-- User-friendly GUI with file selection and debug messages.
+- Load an audio file and scan a directory for similar waveforms
+- Adjustable similarity threshold
+- User-friendly GUI with file selection and debug messages
 
-## Installation
 
-**Using Python**
+# Usage
+
+Just use the exe in releases lol
+
+
+
+## Python Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/patches-sample-finder.git
-
-
+   git clone https://github.com/PatchesNeedsSomeMilk/patches_sample_finder.git
+   
 2. Install python dependencies
    ```bash
    pip install -r requirements.txt
@@ -23,6 +27,4 @@ A tool for finding matching samples based on waveform similarity.
 3. Run the program
    ```bash
    python sample_finder.py
-
-**OR use the .exe**
 
